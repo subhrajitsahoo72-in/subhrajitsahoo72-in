@@ -21,6 +21,11 @@ Terraform | CI/CD | Networking
 ![snake gif](https://github.com/subhrajitsahoo72-in/subhrajitsahoo72-in/blob/output/github-contribution-grid-snake.svg)
 
 ---
+## 📫 Connect with me
+
+- 📧 Email: subhrajitsahoo72@gmail.com  
+- 💻 GitHub: https://github.com/subhrajitsahoo72-in  
+- 📸 Instagram: https://instagram.com/subhrajit.wav
 
 ---
 
