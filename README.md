@@ -21,12 +21,11 @@ Terraform | CI/CD | Networking
 ![snake gif](https://github.com/subhrajitsahoo72-in/subhrajitsahoo72-in/blob/output/github-contribution-grid-snake.svg)
 
 ---
-
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=subhrajitsahoo72-in&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=subhrajitsahoo72-in&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhrajitsahoo72-in&layout=compact&theme=tokyonight)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhrajitsahoo72-in&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
 
