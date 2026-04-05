@@ -1,55 +1,44 @@
 # Hi, I'm Subhrajit 👋
 
-🚀 Aspiring DevOps & Cloud Engineer
-☁️ Strong foundation in AWS, Docker & Linux
-🔧 Passionate about Automation, CI/CD & Cloud Infrastructure
+🚀 Aspiring DevOps Engineer  
+💻 Learning & Building Cloud + Automation  
+🌱 Currently working with Docker, AWS, CI/CD  
 
 ---
 
-## 🛠 Skills & Technologies
+## 🛠️ DevOps Tools & Technologies
 
-* 🐳 Docker
-* ☁️ AWS (EC2, S3)
-* 🐧 Linux
-* 🌐 Networking Basics
-* 🔄 Git & GitHub (Strong Knowledge)
-* 🐍 Python (Basic for Automation)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,python,git,github,docker,aws,kubernetes" />
+</p>
 
----
-
-## 📚 Currently Learning
-
-* Kubernetes ☸️
-* Advanced CI/CD Pipelines
-* Infrastructure as Code (Terraform - upcoming)
+Terraform | CI/CD | Networking  
 
 ---
 
-## 📌 Projects Focus
+## 🐍 Contribution Snake
 
-* Dockerized Applications
-* CI/CD Pipelines using GitHub Actions
-* Cloud Deployment on AWS
+![snake gif](https://github.com/subhrajitsahoo72-in/subhrajitsahoo72-in/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🎯 Career Goal
+## 📊 GitHub Stats
 
-To become a skilled DevOps Engineer and work on real-world cloud infrastructure, automation, and scalable systems.
+![stats](https://github-readme-stats.vercel.app/api?username=subhrajitsahoo72-in&show_icons=true&theme=tokyonight)
 
----
-
-## 📫 Connect With Me
-
-* 📧 Email: [subhrajitsahoo72@gmail.com](mailto:subhrajitsahoo72@gmail.com)
-* 📸 Instagram: subhrajit.wav
-* 💻 GitHub: https://github.com/subhrajitsahoo72-in
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhrajitsahoo72-in&layout=compact&theme=tokyonight)
 
 ---
 
-## ⚡ Fun Fact
+## 📈 Activity Graph
 
-I enjoy learning by building real projects and solving practical DevOps challenges 🚀
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=subhrajitsahoo72-in&theme=tokyo-night)
+
+---
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=subhrajitsahoo72-in&theme=onedark)
 
 <!--
 **subhrajitsahoo72-in/subhrajitsahoo72-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
