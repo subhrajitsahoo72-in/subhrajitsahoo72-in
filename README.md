@@ -9,7 +9,7 @@
 ## 🛠️ DevOps Tools & Technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,python,git,github,docker,aws,kubernetes" />
+<img src="https://skillicons.dev/icons?i=linux,python,git,github,docker,aws,kubernetes,CI/CD" />
 </p>
 
 Terraform | CI/CD | Networking  
