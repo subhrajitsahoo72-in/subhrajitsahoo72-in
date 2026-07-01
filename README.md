@@ -9,8 +9,20 @@
 ## 🛠️ DevOps Tools & Technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,python,git,github,docker,aws,kubernetes,CI/CD," />
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,jenkins,git,github,gitlab,terraform,ansible,python,bash,grafana,prometheus" />
 </p>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" height="48" title="SonarQube"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/jfrog/41BF47" height="48" title="JFrog"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="48" title="ArgoCD"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/helm/0F1689" height="48" title="Helm"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/trivy/1904DA" height="48" title="Trivy"/>
+</p>
+
 
 Terraform | CI/CD | Networking  
 
