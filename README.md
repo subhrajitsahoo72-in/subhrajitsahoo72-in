@@ -1,9 +1,11 @@
 # Hi, I'm Subhrajit 👋
 
-🚀 Aspiring DevOps Engineer  
-💻 Learning & Building Cloud + Automation  
-🌱 Currently working with Docker, AWS, CI/CD  
-
+🚀 Cloud & DevOps Engineer
+☁️ Specializing in AWS 
+🐳 Docker, Kubernetes & cloud-native deployments
+⚙️ CI/CD pipelines, automation & infrastructure as code
+🎯 Designing and deploying scalable cloud solutions
+💡 Passionate about DevOps, Cloud & Continuous Innovation
 ---
 
 ## 🛠️ DevOps Tools & Technologies
