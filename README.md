@@ -12,8 +12,7 @@
   <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,jenkins,git,github,gitlab,terraform,ansible,python,bash,grafana,prometheus" />
 </p>
 <p align="left">
-  <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" height="48" title="SonarQube"/>
-  &nbsp;
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" height="35" title="SonarQube"/>  &nbsp;
   <img src="https://cdn.simpleicons.org/jfrog/41BF47" height="48" title="JFrog"/>
   &nbsp;
   <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="48" title="ArgoCD"/>
